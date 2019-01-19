@@ -1,0 +1,19 @@
+{
+  "name": "readexcel",
+  "version": "1.0.0",
+  "description": "use node-xlsx to read and write excel file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liguirong",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mime": "^2.4.0",
+    "multer": "^1.4.1",
+    "node-xlsx": "^0.12.1",
+    "nodemon": "^1.18.9"
+  }
+}
